@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"370d07ed10731898","x":120,"y":-240,"width":400,"height":400,"type":"file","file":"Lexicon/Verbs.md"},
+		{"id":"0dac78e9389a915c","x":-220,"y":20,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[]
+}
