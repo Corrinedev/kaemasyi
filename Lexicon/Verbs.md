@@ -3,7 +3,11 @@ As a general rule, verbs usually end in "de1" if they're simple, if they're more
 A verb in this context is either an active action or state of being.
 
 
-| Romanization | Definition                                                                  |
-| ------------ | --------------------------------------------------------------------------- |
-| tyi3de1      | To exist as, to be. Eq. "am"<br>ex. bahkae kae tyide (Tall I am, I am tall) |
-|              |                                                                             |
+|  | Romanization | Definition                                                                                                                                 |
+| ----- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
+|   | tyude        | To exist as, to be. Eq. "am"<br>ex.    <br>eng. I am good.                                                                          |
+|   | desrdeo      | To be active to the point of exhaustion<br>Can also be a descriptor for exhaustion<br>ex.  <br>eng. (I'm active)<br>past.  ·<br>eng, |
+|    | eusde        | To drink                                                                                                                                   |
+|    | nghde        | To eat<br>ex.   (lit. Eat I)<br>eng. I eat.                                                                                            |
+|   | suude        | To walk, to move.<br>ex.    <br>eng. I walked here.                                                                               |
+|       |              |                                                                                                                                            |
